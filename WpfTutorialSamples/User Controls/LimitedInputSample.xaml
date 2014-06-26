@@ -1,0 +1,16 @@
+﻿<Window x:Class="WpfTutorialSamples.User_Controls.LimitedInputSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:uc="clr-namespace:WpfTutorialSamples.User_Controls"
+        Title="LimitedInputSample" Height="200" Width="300">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        
+        <uc:LimitedInputUserControl Title="Enter title:" MaxLength="30" Height="50" />
+        <uc:LimitedInputUserControl Title="Enter description:" MaxLength="140" Grid.Row="1" />
+        
+    </Grid>
+</Window>

@@ -1,0 +1,31 @@
+﻿<Window x:Class="WpfTutorialSamples.Rich_text_controls.BlockUIContainerSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:self="clr-namespace:WpfTutorialSamples.Rich_text_controls"
+        Title="BlockUIContainerSample" Height="300" Width="300">
+    <Window.Resources>
+        <x:Array x:Key="UserArray" Type="{x:Type self:User}">
+            <self:User Name="John Doe" Age="42"/>
+            <self:User Name="Jane Doe" Age="36"/>
+        </x:Array>
+    </Window.Resources>
+    <Grid>
+        <FlowDocumentScrollViewer>
+            <FlowDocument>
+                <Paragraph FontSize="36" Margin="0">Users</Paragraph>
+                <Paragraph FontStyle="Italic" TextAlignment="Left" FontSize="14" Foreground="Gray">Here's a list of our users, inside our FlowDocument, in a completely interactive ListView control!</Paragraph>
+                <BlockUIContainer>
+                    <ListView BorderThickness="0" ItemsSource="{StaticResource UserArray}">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Name}" Width="140" />
+                                <GridViewColumn Header="Age" DisplayMemberBinding="{Binding Age}" Width="60" />
+                            </GridView>
+                        </ListView.View>                        
+                    </ListView>
+                </BlockUIContainer>
+                <Paragraph FontStyle="Italic" TextAlignment="Left" FontSize="14" Foreground="Gray">More content can go here...</Paragraph>
+            </FlowDocument>
+        </FlowDocumentScrollViewer>
+    </Grid>
+</Window>

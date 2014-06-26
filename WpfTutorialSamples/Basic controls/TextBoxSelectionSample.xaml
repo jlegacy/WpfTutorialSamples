@@ -1,0 +1,9 @@
+﻿<Window x:Class="WpfTutorialSamples.Basic_controls.TextBoxSelectionSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TextBoxSelectionSample" Height="150" Width="300">
+	<DockPanel Margin="10">
+		<TextBox SelectionChanged="TextBox_SelectionChanged" DockPanel.Dock="Top" />
+		<TextBox Name="txtStatus" AcceptsReturn="True" TextWrapping="Wrap" IsReadOnly="True" />
+	</DockPanel>
+</Window>

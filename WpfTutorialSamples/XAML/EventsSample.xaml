@@ -1,0 +1,8 @@
+﻿<Window x:Class="WpfTutorialSamples.XAML.EventsSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="EventsSample" Height="300" Width="300">
+	<Grid Name="pnlMainGrid" Background="LightBlue">        
+		<DataGrid></DataGrid>
+    </Grid>
+</Window>

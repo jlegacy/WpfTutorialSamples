@@ -1,0 +1,20 @@
+﻿<Window x:Class="WpfTutorialSamples.Rich_text_controls.RichTextBoxTextSelectionSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="RichTextBoxTextSelectionSample" Height="300" Width="400">
+    <DockPanel>
+        <WrapPanel DockPanel.Dock="Top">
+            <Button Name="btnGetText" Click="btnGetText_Click">Get text</Button>
+            <Button Name="btnSetText" Click="btnSetText_Click">Set text</Button>
+            <Button Name="btnGetSelectedText" Click="btnGetSelectedText_Click">Get sel. text</Button>
+            <Button Name="btnSetSelectedText" Click="btnSetSelectedText_Click">Replace sel. text</Button>            
+        </WrapPanel>
+        <TextBox DockPanel.Dock="Bottom" Name="txtStatus" />
+        <RichTextBox Name="rtbEditor" SelectionChanged="rtbEditor_SelectionChanged">
+            <FlowDocument>
+                <Paragraph FontSize="36">Hello, world!</Paragraph>
+                <Paragraph FontStyle="Italic" TextAlignment="Left" FontSize="14" Foreground="Gray">Thanks to the RichTextBox control, this FlowDocument is completely editable!</Paragraph>
+            </FlowDocument>
+        </RichTextBox>        
+    </DockPanel>
+</Window>

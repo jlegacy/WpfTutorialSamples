@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfTutorialSamples.ListBox_control.ListBoxDataBindingSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ListBoxDataBindingSample" Height="150" Width="300">
+    <Grid Margin="10">
+		<ListBox Name="lbTodoList" HorizontalContentAlignment="Stretch">
+			<ListBox.ItemTemplate>
+				<DataTemplate>
+					<Grid Margin="0,2">
+						<Grid.ColumnDefinitions>
+							<ColumnDefinition Width="*" />
+							<ColumnDefinition Width="100" />
+						</Grid.ColumnDefinitions>
+						<TextBlock Text="{Binding Title}" />
+						<ProgressBar Grid.Column="1" Minimum="0" Maximum="100" Value="{Binding Completion}" />
+					</Grid>
+				</DataTemplate>
+			</ListBox.ItemTemplate>
+		</ListBox>
+	</Grid>
+</Window>

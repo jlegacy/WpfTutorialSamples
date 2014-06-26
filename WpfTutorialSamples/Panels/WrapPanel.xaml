@@ -1,0 +1,13 @@
+﻿<Window x:Class="WpfTutorialSamples.Panels.WrapPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WrapPanel" Height="120" Width="300">
+	<WrapPanel Orientation="Vertical">
+		<Button>Test button 1</Button>
+		<Button>Test button 2</Button>
+		<Button>Test button 3</Button>
+		<Button Width="140" Height="44">Test button 4</Button>
+		<Button>Test button 5</Button>
+		<Button>Test button 6</Button>
+	</WrapPanel>
+</Window>

@@ -1,0 +1,8 @@
+﻿<Window x:Class="WpfTutorialSamples.Control_concepts.ToolTipsSimpleSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ToolTipsSimpleSample" Height="150" Width="400">
+    <Grid VerticalAlignment="Center" HorizontalAlignment="Center">
+        <Button ToolTip="Click here and something will happen!">Click here!</Button>
+    </Grid>
+</Window>

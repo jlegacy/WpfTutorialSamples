@@ -1,0 +1,17 @@
+﻿<Window x:Class="WpfTutorialSamples.Rich_text_controls.FlowDocumentPrintSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="FlowDocumentPrintSample" Height="300" Width="300">
+    <DockPanel>
+        <WrapPanel DockPanel.Dock="Top">
+            <Button Name="btnPrint" Click="btnPrint_Click">Print</Button>
+            <Button Name="btnPrintPreview" Click="btnPrintPreview_Click">Print preview</Button>
+        </WrapPanel>
+        <FlowDocumentScrollViewer Name="fdViewer">
+            <FlowDocument>
+                <Paragraph FontSize="36">Hello, world!</Paragraph>
+                <Paragraph FontStyle="Italic" TextAlignment="Left" FontSize="14" Foreground="Gray">The ultimate programming greeting!</Paragraph>
+            </FlowDocument>
+        </FlowDocumentScrollViewer>
+    </DockPanel>
+</Window>

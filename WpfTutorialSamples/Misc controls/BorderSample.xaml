@@ -1,0 +1,14 @@
+﻿<Window x:Class="WpfTutorialSamples.Misc_controls.BorderSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="BorderSample" Height="175" Width="200">
+    <Grid Margin="10">
+		<Border Background="GhostWhite" BorderBrush="Silver" BorderThickness="1" CornerRadius="8,8,3,3">			
+			<StackPanel Margin="10">
+				<Button>Button 1</Button>
+				<Button Margin="0,10">Button 2</Button>
+				<Button>Button 3</Button>
+			</StackPanel>
+		</Border>
+	</Grid>
+</Window>

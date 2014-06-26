@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfTutorialSamples.Basic_controls.LabelControlAdvancedSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="LabelControlAdvancedSample" Height="180" Width="250">
+	<StackPanel Margin="10">
+		<Label Target="{Binding ElementName=txtName}">
+			<StackPanel Orientation="Horizontal">
+				<Image Source="http://cdn1.iconfinder.com/data/icons/fatcow/16/bullet_green.png" />
+				<AccessText Text="_Name:" />
+			</StackPanel>
+		</Label>
+		<TextBox Name="txtName" />
+		<Label Target="{Binding ElementName=txtMail}">
+			<StackPanel Orientation="Horizontal">
+				<Image Source="http://cdn1.iconfinder.com/data/icons/fatcow/16/bullet_blue.png" />
+				<AccessText Text="_Mail:" />
+			</StackPanel>
+		</Label>
+		<TextBox Name="txtMail" />
+	</StackPanel>
+</Window>

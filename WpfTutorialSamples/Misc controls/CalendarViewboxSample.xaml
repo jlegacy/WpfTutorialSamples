@@ -1,0 +1,8 @@
+﻿<Window x:Class="WpfTutorialSamples.Misc_controls.CalendarViewboxSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CalendarViewboxSample" Height="350" Width="300">
+    <Viewbox Stretch="Fill" StretchDirection="UpOnly">
+        <Calendar />
+    </Viewbox>
+</Window>

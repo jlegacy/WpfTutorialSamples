@@ -1,0 +1,17 @@
+﻿<Window x:Class="WpfTutorialSamples.Basic_controls.TextBlockSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TextBlockSample" Height="200" Width="250">
+    <StackPanel>
+		<TextBlock Margin="10" Foreground="Red">
+			This is a TextBlock control<LineBreak />
+			with multiple lines of text.
+		</TextBlock>		
+		<TextBlock Margin="10" TextTrimming="CharacterEllipsis" Foreground="Green">
+			This is a TextBlock control with text that may not be rendered completely, which will be indicated with ellipsis.
+		</TextBlock>
+		<TextBlock Margin="10" TextWrapping="Wrap" Foreground="Blue">
+			This is a TextBlock control with automatically wrapped text, using the TextWrapping property.
+		</TextBlock>
+	</StackPanel>
+</Window>

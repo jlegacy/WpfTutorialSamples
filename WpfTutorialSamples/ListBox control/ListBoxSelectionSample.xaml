@@ -1,0 +1,34 @@
+﻿<Window x:Class="WpfTutorialSamples.ListBox_control.ListBoxSelectionSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ListBoxSelectionSample" Height="250" Width="450">
+	<DockPanel Margin="10">
+		<StackPanel DockPanel.Dock="Right" Margin="10,0">
+			<StackPanel.Resources>
+				<Style TargetType="Button">
+					<Setter Property="Margin" Value="0,0,0,5" />
+				</Style>
+			</StackPanel.Resources>
+			<TextBlock FontWeight="Bold" Margin="0,0,0,10">ListBox selection</TextBlock>
+			<Button Name="btnShowSelectedItem" Click="btnShowSelectedItem_Click">Show selected</Button>
+			<Button Name="btnSelectLast" Click="btnSelectLast_Click">Select last</Button>
+			<Button Name="btnSelectNext" Click="btnSelectNext_Click">Select next</Button>
+			<Button Name="btnSelectCSharp" Click="btnSelectCSharp_Click">Select C#</Button>
+			<Button Name="btnSelectAll" Click="btnSelectAll_Click">Select all</Button>
+		</StackPanel>
+		<ListBox Name="lbTodoList" HorizontalContentAlignment="Stretch" SelectionMode="Extended" SelectionChanged="lbTodoList_SelectionChanged">
+			<ListBox.ItemTemplate>
+				<DataTemplate>
+					<Grid Margin="0,2">
+						<Grid.ColumnDefinitions>
+							<ColumnDefinition Width="*" />
+							<ColumnDefinition Width="100" />
+						</Grid.ColumnDefinitions>
+						<TextBlock Text="{Binding Title}" />
+						<ProgressBar Grid.Column="1" Minimum="0" Maximum="100" Value="{Binding Completion}" />
+					</Grid>
+				</DataTemplate>
+			</ListBox.ItemTemplate>
+		</ListBox>
+	</DockPanel>
+</Window>

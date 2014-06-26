@@ -1,0 +1,12 @@
+﻿<Window x:Class="WpfTutorialSamples.ComboBox_control.ComboBoxSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ComboBoxSample" Height="150" Width="200">
+    <StackPanel Margin="10">
+        <ComboBox>
+            <ComboBoxItem>ComboBox Item #1</ComboBoxItem>
+            <ComboBoxItem IsSelected="True">ComboBox Item #2</ComboBoxItem>
+            <ComboBoxItem>ComboBox Item #3</ComboBoxItem>
+        </ComboBox>
+    </StackPanel>
+</Window>

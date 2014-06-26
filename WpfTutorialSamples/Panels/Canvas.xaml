@@ -1,0 +1,11 @@
+﻿<Window x:Class="WpfTutorialSamples.Panels.Canvas"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Canvas" Height="200" Width="200">
+	<Canvas>
+		<Button Canvas.Left="10">Top left</Button>
+		<Button Canvas.Right="10">Top right</Button>
+		<Button Canvas.Left="10" Canvas.Bottom="10">Bottom left</Button>
+		<Button Canvas.Right="10" Canvas.Bottom="10">Bottom right</Button>
+	</Canvas>
+</Window>

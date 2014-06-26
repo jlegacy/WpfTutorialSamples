@@ -1,0 +1,10 @@
+﻿<Window x:Class="WpfTutorialSamples.Basic_controls.TextBlockInlineSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TextBlockInlineSample" Height="100" Width="300">
+    <Grid>
+		<TextBlock Margin="10" TextWrapping="Wrap">
+			TextBlock with <Bold>bold</Bold>, <Italic>italic</Italic> and <Underline>underlined</Underline> text.
+		</TextBlock>
+    </Grid>
+</Window>

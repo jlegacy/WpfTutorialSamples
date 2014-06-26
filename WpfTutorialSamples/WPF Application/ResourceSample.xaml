@@ -1,0 +1,13 @@
+﻿<Window x:Class="WpfTutorialSamples.WPF_Application.ResourceSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        Title="ResourceSample" Height="150" Width="350">
+    <Window.Resources>
+        <sys:String x:Key="strHelloWorld">Hello, world!</sys:String>
+    </Window.Resources>
+    <StackPanel Margin="10">
+        <TextBlock Text="{StaticResource strHelloWorld}" FontSize="56" />
+        <TextBlock>Just another "<TextBlock Text="{StaticResource strHelloWorld}" />" example, but with resources!</TextBlock>
+    </StackPanel>
+</Window>

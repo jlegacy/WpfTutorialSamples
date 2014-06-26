@@ -1,0 +1,11 @@
+﻿<Window x:Class="WpfTutorialSamples.Basic_controls.LabelControlSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="LabelControlSample" Height="180" Width="250">
+	<StackPanel Margin="10">
+		<Label Content="_Name:" Target="{Binding ElementName=txtName}" />
+		<TextBox Name="txtName" />
+		<Label Content="_Mail:" Target="{Binding ElementName=txtMail}" />
+		<TextBox Name="txtMail" />
+	</StackPanel>
+</Window>

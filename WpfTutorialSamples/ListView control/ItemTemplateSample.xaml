@@ -1,0 +1,23 @@
+﻿<Window x:Class="WpfTutorialSamples.ListView_control.ItemTemplateSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ListViewItemTemplateSample" Height="150" Width="350">
+    <Grid>
+		<ListView Margin="10" Name="lvDataBinding">
+			<ListView.ItemTemplate>
+				<DataTemplate>
+					<WrapPanel>
+						<TextBlock Text="Name: " /> 
+						<TextBlock Text="{Binding Name}" FontWeight="Bold" />
+						<TextBlock Text=", " />
+						<TextBlock Text="Age: " />
+						<TextBlock Text="{Binding Age}" FontWeight="Bold" />
+						<TextBlock Text=" (" />
+						<TextBlock Text="{Binding Mail}" TextDecorations="Underline" Foreground="Blue" Cursor="Hand" />
+						<TextBlock Text=")" />
+					</WrapPanel>
+				</DataTemplate>
+			</ListView.ItemTemplate>
+		</ListView>
+	</Grid>
+</Window>

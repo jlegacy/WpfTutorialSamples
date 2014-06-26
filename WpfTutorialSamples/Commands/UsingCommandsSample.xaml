@@ -1,0 +1,12 @@
+﻿<Window x:Class="WpfTutorialSamples.Commands.UsingCommandsSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="UsingCommandsSample" Height="100" Width="200">
+    <Window.CommandBindings>
+        <CommandBinding Command="ApplicationCommands.New" Executed="NewCommand_Executed" CanExecute="NewCommand_CanExecute" />
+    </Window.CommandBindings>
+    
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+        <Button Command="ApplicationCommands.New">New</Button>
+    </StackPanel>
+</Window>

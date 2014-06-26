@@ -1,0 +1,14 @@
+﻿<Window x:Class="WpfTutorialSamples.Styles.ControlSpecificStyleSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ControlSpecificStyleSample" Height="100" Width="300">
+    <Grid Margin="10">
+        <TextBlock Text="Style test">
+            <TextBlock.Style>
+                <Style>
+                    <Setter Property="TextBlock.FontSize" Value="36" />
+                </Style>
+            </TextBlock.Style>
+        </TextBlock>
+    </Grid>
+</Window>

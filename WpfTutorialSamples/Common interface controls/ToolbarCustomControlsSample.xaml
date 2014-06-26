@@ -1,0 +1,32 @@
+﻿<Window x:Class="WpfTutorialSamples.Common_interface_controls.ToolbarCustomControlsSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ToolbarCustomControlsSample" Height="200" Width="300">
+	<DockPanel>
+		<ToolBarTray DockPanel.Dock="Top">
+			<ToolBar>
+				<Button Command="Cut" ToolTip="Cut selection to Windows Clipboard.">
+					<Image Source="/WpfTutorialSamples;component/Images/cut.png" />
+				</Button>
+				<Button Command="Copy" ToolTip="Copy selection to Windows Clipboard.">
+					<Image Source="/WpfTutorialSamples;component/Images/copy.png" />
+				</Button>
+				<Button Command="Paste" ToolTip="Paste from Windows Clipboard.">
+					<StackPanel Orientation="Horizontal">
+						<Image Source="/WpfTutorialSamples;component/Images/paste.png" />
+						<TextBlock Margin="3,0,0,0">Paste</TextBlock>
+					</StackPanel>
+				</Button>
+				<Separator />
+				<Label>Font size:</Label>
+				<ComboBox>
+					<ComboBoxItem>10</ComboBoxItem>
+					<ComboBoxItem IsSelected="True">12</ComboBoxItem>
+					<ComboBoxItem>14</ComboBoxItem>
+					<ComboBoxItem>16</ComboBoxItem>
+				</ComboBox>
+			</ToolBar>
+		</ToolBarTray>
+		<TextBox AcceptsReturn="True" />
+	</DockPanel>
+</Window>

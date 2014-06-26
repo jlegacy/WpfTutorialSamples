@@ -1,0 +1,25 @@
+﻿<Window x:Class="WpfTutorialSamples.ItemsControl.PanelSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+		xmlns:system="clr-namespace:System;assembly=mscorlib"
+        Title="ItemsControlPanelSample" Height="150" Width="250">
+	<Grid Margin="10">
+		<ItemsControl>
+			<ItemsControl.ItemsPanel>
+				<ItemsPanelTemplate>
+					<UniformGrid Columns="2" />
+				</ItemsPanelTemplate>
+			</ItemsControl.ItemsPanel>
+			<ItemsControl.ItemTemplate>
+				<DataTemplate>
+					<Button Content="{Binding}" Margin="0,0,5,5" />
+				</DataTemplate>
+			</ItemsControl.ItemTemplate>
+			<system:String>Item #1</system:String>
+			<system:String>Item #2</system:String>
+			<system:String>Item #3</system:String>
+			<system:String>Item #4</system:String>
+			<system:String>Item #5</system:String>
+		</ItemsControl>
+	</Grid>
+</Window>

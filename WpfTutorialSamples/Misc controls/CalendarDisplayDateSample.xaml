@@ -1,0 +1,8 @@
+﻿<Window x:Class="WpfTutorialSamples.Misc_controls.CalendarDisplayDateSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CalendarDisplayDateSample" Height="300" Width="300">
+    <Viewbox>
+        <Calendar DisplayDate="01.01.2014" />
+    </Viewbox>
+</Window>

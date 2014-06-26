@@ -1,0 +1,13 @@
+﻿<Window x:Class="WpfTutorialSamples.Rich_text_controls.FlowDocumentPageViewerSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="FlowDocumentPageViewerSample" Height="300" Width="300">
+    <Grid>
+        <FlowDocumentPageViewer>
+            <FlowDocument>                                
+                <Paragraph>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce faucibus odio arcu, luctus vestibulum tortor congue in. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nec lacinia neque. Donec malesuada, ligula non vestibulum cursus, urna purus pellentesque orci, aliquet accumsan dui velit ac justo. Phasellus sagittis ligula in leo dapibus, vel vestibulum felis mattis. Fusce vitae auctor nibh. Ut sit amet fringilla turpis. Aenean tincidunt feugiat sapien, quis scelerisque enim pretium commodo. Mauris fermentum posuere nulla, vitae fermentum quam malesuada in. Cras ultrices bibendum nulla eu mollis. Sed accumsan pretium magna, non sodales velit viverra id. Sed eu elit sit amet sem ullamcorper rhoncus.</Paragraph>
+                <Paragraph>Nulla vitae suscipit tellus. Nunc sit amet tortor fermentum, sollicitudin enim cursus, sagittis lacus. Pellentesque tincidunt massa nisl, nec tempor nulla consequat a. Proin pharetra neque vel dolor congue, at condimentum arcu varius. Sed vel luctus enim. Curabitur eleifend dui et arcu faucibus, sit amet vulputate libero suscipit. Vestibulum ultrices nisi id metus ultrices, eu ultricies ligula rutrum. Phasellus rhoncus aliquam pretium. Quisque in nunc erat. Etiam mollis turpis cursus, sagittis felis vel, dignissim risus. Ut at est nec tellus lobortis venenatis. Fusce elit mi, gravida sed tortor at, faucibus interdum felis. Phasellus porttitor dolor in nunc pellentesque, eu hendrerit nulla porta. Vestibulum cursus placerat elit. Nullam malesuada dictum venenatis. Interdum et malesuada fames ac ante ipsum primis in faucibus.</Paragraph>
+            </FlowDocument>
+        </FlowDocumentPageViewer>
+    </Grid>
+</Window>

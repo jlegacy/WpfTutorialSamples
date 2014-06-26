@@ -1,0 +1,13 @@
+﻿<Window x:Class="WpfTutorialSamples.Rich_text_controls.FlowDocumentScrollViewerZoomSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="FlowDocumentScrollViewerZoomSample" Height="180" Width="300">
+    <Grid>
+        <FlowDocumentScrollViewer IsToolBarVisible="True" Zoom="80" ScrollViewer.VerticalScrollBarVisibility="Auto">
+            <FlowDocument>
+                <Paragraph FontSize="36">Hello, world!</Paragraph>
+                <Paragraph FontStyle="Italic" TextAlignment="Left" FontSize="14" Foreground="Gray">The ultimate programming greeting!</Paragraph>
+            </FlowDocument>
+        </FlowDocumentScrollViewer>
+    </Grid>
+</Window>

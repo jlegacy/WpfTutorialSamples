@@ -1,0 +1,17 @@
+﻿<Window x:Class="WpfTutorialSamples.Panels.CanvasPainting"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CanvasPainting" Height="300" Width="300">
+	<Canvas>		
+		<Polygon  Canvas.Left="85" Canvas.Bottom="100" Fill="Red">
+			<Polygon.Points>
+				<!--Points="120,100 0,100 55,55"-->
+				<Point X="130" Y="100" />
+				<Point X="0" Y="100" />
+				<Point X="60" Y="20" />
+			</Polygon.Points>
+		</Polygon>
+		<Rectangle Canvas.Left="100" Canvas.Bottom="0" Width="100" Height="100" Fill="Blue" />
+		<Rectangle Canvas.Left="150" Canvas.Bottom="0" Width="30" Height="50" Fill="Brown" Stroke="Black" StrokeThickness="0," />		
+	</Canvas>
+</Window>

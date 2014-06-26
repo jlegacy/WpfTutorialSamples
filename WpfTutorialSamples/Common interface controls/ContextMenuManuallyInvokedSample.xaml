@@ -1,0 +1,16 @@
+﻿<Window x:Class="WpfTutorialSamples.Common_interface_controls.ContextMenuManuallyInvokedSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ContextMenuManuallyInvokedSample" Height="250" Width="250">
+    <Window.Resources>
+        <ContextMenu x:Key="cmButton">
+            <MenuItem Header="Menu item 1" />
+            <MenuItem Header="Menu item 2" />
+            <Separator />
+            <MenuItem Header="Menu item 3" />
+        </ContextMenu>
+    </Window.Resources>
+    <Grid>
+        <Button Content="Click me!" VerticalAlignment="Center" HorizontalAlignment="Center" Click="Button_Click" />
+    </Grid>
+</Window>

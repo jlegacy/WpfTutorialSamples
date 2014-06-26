@@ -1,0 +1,16 @@
+﻿<Window x:Class="WpfTutorialSamples.Styles.ExplicitStyleSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ExplicitStyleSample" Height="150" Width="300">
+    <Window.Resources>
+        <Style x:Key="HeaderStyle" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="Gray" />
+            <Setter Property="FontSize" Value="24" />
+        </Style>
+    </Window.Resources>
+    <StackPanel Margin="10">
+        <TextBlock>Header 1</TextBlock>
+        <TextBlock Style="{StaticResource HeaderStyle}">Header 2</TextBlock>
+        <TextBlock>Header 3</TextBlock>
+    </StackPanel>
+</Window>

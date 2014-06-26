@@ -1,0 +1,36 @@
+﻿<Window x:Class="WpfTutorialSamples.Misc_controls.TabControlWithCustomHeadersSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TabControlWithCustomHeadersSample" Height="200" Width="250">
+    <Grid>
+        <Grid>
+            <TabControl>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="/WpfTutorialSamples;component/Images/bullet_blue.png" />
+                            <TextBlock Text="Blue" Foreground="Blue" />
+                        </StackPanel>
+                    </TabItem.Header>
+                    <Label Content="Content goes here..." />
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="/WpfTutorialSamples;component/Images/bullet_red.png" />
+                            <TextBlock Text="Red" Foreground="Red" />
+                        </StackPanel>
+                    </TabItem.Header>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="/WpfTutorialSamples;component/Images/bullet_green.png" />
+                            <TextBlock Text="Green" Foreground="Green" />
+                        </StackPanel>
+                    </TabItem.Header>
+                </TabItem>
+            </TabControl>
+        </Grid>
+    </Grid>
+</Window>

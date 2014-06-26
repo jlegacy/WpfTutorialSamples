@@ -1,0 +1,35 @@
+﻿<Window x:Class="WpfTutorialSamples.DataBinding.MultiValueConverterSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+		xmlns:local="clr-namespace:WpfTutorialSamples.DataBinding"
+        Title="MultiValueConverterSample" Height="300" Width="300">
+	<Window.Resources>
+		<local:NameOrderConverter x:Key="NameOrderConverter" />
+	</Window.Resources>
+	<StackPanel Margin="10">		
+		<TextBox Name="txtFirstName" />
+		<TextBox Name="txtLastName" Margin="0,10" />
+		<WrapPanel>			
+			<TextBlock Text="Name of user (Germany): " />
+			<TextBlock Language="de-DE">
+				<TextBlock.Text>
+					<MultiBinding Converter="{StaticResource NameOrderConverter}">
+						<Binding ElementName="txtFirstName" Path="Text" />
+						<Binding ElementName="txtLastName" Path="Text" />
+					</MultiBinding>
+				</TextBlock.Text>
+			</TextBlock>
+		</WrapPanel>
+		<WrapPanel>
+			<TextBlock Text="Name of user (US): " />
+			<TextBlock Language="en-US">
+				<TextBlock.Text>
+					<MultiBinding Converter="{StaticResource NameOrderConverter}">
+						<Binding ElementName="txtFirstName" Path="Text" />
+						<Binding ElementName="txtLastName" Path="Text" />
+					</MultiBinding>
+				</TextBlock.Text>
+			</TextBlock>
+		</WrapPanel>
+	</StackPanel>
+</Window>

@@ -1,0 +1,30 @@
+﻿<Window x:Class="WpfTutorialSamples.Rich_text_controls.FlowDocumentTextAlignmentSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="FlowDocumentTextAlignmentSample" Height="400" Width="330">
+    <StackPanel>
+        <FlowDocumentScrollViewer ScrollViewer.VerticalScrollBarVisibility="Auto">
+            <FlowDocument>
+                <Paragraph FontStyle="Italic" FontSize="14" Foreground="Gray">
+                    By setting the
+                    <Bold>IsOptimalParagraphEnabled</Bold> property to true, 
+                    you will allow WPF to look ahead on the lines to come, before deciding 
+                    where to break. This will usually result in a more pleasant reading 
+                    experience. It works especially well in combination with the
+                    <Bold>IsHyphenationEnabled</Bold> property.
+                </Paragraph>
+            </FlowDocument>
+        </FlowDocumentScrollViewer>
+        <FlowDocumentScrollViewer ScrollViewer.VerticalScrollBarVisibility="Auto">
+            <FlowDocument IsOptimalParagraphEnabled="True" IsHyphenationEnabled="True">                
+                <Paragraph FontStyle="Italic" FontSize="14" Foreground="Gray">
+                    By setting the <Bold>IsOptimalParagraphEnabled</Bold> property to true, 
+                    you will allow WPF to look ahead on the lines to come, before deciding 
+                    where to break. This will usually result in a more pleasant reading 
+                    experience. It works especially well in combination with the 
+                    <Bold>IsHyphenationEnabled</Bold> property.
+                </Paragraph>
+            </FlowDocument>
+        </FlowDocumentScrollViewer>
+    </StackPanel>
+</Window>

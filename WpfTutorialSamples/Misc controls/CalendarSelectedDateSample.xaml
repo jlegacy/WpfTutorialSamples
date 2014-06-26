@@ -1,0 +1,10 @@
+﻿<Window x:Class="WpfTutorialSamples.Misc_controls.CalendarSelectedDateSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CalendarSelectionSample" Height="280" Width="220">
+    <StackPanel Margin="10">
+        <Calendar Name="cldSample" />
+        <Label>Selected date:</Label>
+        <TextBox Text="{Binding ElementName=cldSample, Path=SelectedDate, StringFormat=d, UpdateSourceTrigger=PropertyChanged}" />
+    </StackPanel>
+</Window>

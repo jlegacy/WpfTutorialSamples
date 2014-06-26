@@ -1,0 +1,30 @@
+﻿<Window x:Class="WpfTutorialSamples.TreeView_control.TreeViewMultipleTemplatesSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+		xmlns:self="clr-namespace:WpfTutorialSamples.TreeView_control"
+        Title="TreeViewMultipleTemplatesSample" Height="200" Width="250">
+	<Grid Margin="10">
+		<TreeView Name="trvFamilies">
+			<TreeView.Resources>
+				<HierarchicalDataTemplate DataType="{x:Type self:Family}" ItemsSource="{Binding Members}">
+					<StackPanel Orientation="Horizontal">
+						<Image Source="/WpfTutorialSamples;component/Images/group.png" Margin="0,0,5,0" />
+						<TextBlock Text="{Binding Name}" />
+						<TextBlock Text=" [" Foreground="Blue" />
+						<TextBlock Text="{Binding Members.Count}" Foreground="Blue" />
+						<TextBlock Text="]" Foreground="Blue" />
+					</StackPanel>
+				</HierarchicalDataTemplate>
+				<DataTemplate DataType="{x:Type self:FamilyMember}">
+					<StackPanel Orientation="Horizontal">
+						<Image Source="/WpfTutorialSamples;component/Images/user.png" Margin="0,0,5,0" />
+						<TextBlock Text="{Binding Name}" />
+						<TextBlock Text=" (" Foreground="Green" />
+						<TextBlock Text="{Binding Age}" Foreground="Green" />
+						<TextBlock Text=" years)" Foreground="Green" />
+					</StackPanel>
+				</DataTemplate>
+			</TreeView.Resources>
+		</TreeView>
+	</Grid>
+</Window>

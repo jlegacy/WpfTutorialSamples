@@ -1,0 +1,27 @@
+﻿<Window x:Class="WpfTutorialSamples.ComboBox_control.ComboBoxCustomContentSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ComboBoxCustomContentSample" Height="150" Width="200">
+    <StackPanel Margin="10">
+        <ComboBox>
+            <ComboBoxItem>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="/WpfTutorialSamples;component/Images/bullet_red.png" />
+                    <TextBlock Foreground="Red">Red</TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="/WpfTutorialSamples;component/Images/bullet_green.png" />
+                    <TextBlock Foreground="Green">Green</TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="/WpfTutorialSamples;component/Images/bullet_blue.png" />
+                    <TextBlock Foreground="Blue">Blue</TextBlock>
+                </StackPanel>
+            </ComboBoxItem>                        
+        </ComboBox>
+    </StackPanel>
+</Window>

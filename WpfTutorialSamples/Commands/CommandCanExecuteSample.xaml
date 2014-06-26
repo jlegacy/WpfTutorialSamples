@@ -1,0 +1,16 @@
+﻿<Window x:Class="WpfTutorialSamples.Commands.CommandCanExecuteSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CommandCanExecuteSample" Height="200" Width="250">
+    <Window.CommandBindings>
+        <CommandBinding Command="ApplicationCommands.Cut" CanExecute="CutCommand_CanExecute" Executed="CutCommand_Executed" />
+        <CommandBinding Command="ApplicationCommands.Paste" CanExecute="PasteCommand_CanExecute" Executed="PasteCommand_Executed" />
+    </Window.CommandBindings>
+    <DockPanel>
+        <WrapPanel DockPanel.Dock="Top" Margin="3">
+            <Button Command="ApplicationCommands.Cut" Width="60">_Cut</Button>
+            <Button Command="ApplicationCommands.Paste" Width="60" Margin="3,0">_Paste</Button>
+        </WrapPanel>
+        <TextBox AcceptsReturn="True" Name="txtEditor" />
+    </DockPanel>
+</Window>

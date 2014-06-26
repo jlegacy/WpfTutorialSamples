@@ -1,0 +1,13 @@
+﻿<Window x:Class="WpfTutorialSamples.Misc_controls.WindowsFormsHostSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:wf="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"
+        Title="WindowsFormsHostSample" Height="350" Width="450">
+    <Grid>
+        <WindowsFormsHost Name="wfhSample">
+            <WindowsFormsHost.Child>
+                <wf:WebBrowser DocumentTitleChanged="wbWinForms_DocumentTitleChanged" />
+            </WindowsFormsHost.Child>
+        </WindowsFormsHost>
+    </Grid>
+</Window>

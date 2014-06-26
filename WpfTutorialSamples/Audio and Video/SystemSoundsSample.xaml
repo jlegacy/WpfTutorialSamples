@@ -1,0 +1,12 @@
+﻿<Window x:Class="WpfTutorialSamples.Audio_and_Video.SystemSoundsSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SystemSoundsSample" Height="200" Width="150">
+    <StackPanel Margin="10" HorizontalAlignment="Center" VerticalAlignment="Center">
+        <Button Name="btnAsterisk" Click="btnAsterisk_Click">Asterisk</Button>
+        <Button Name="btnBeep" Margin="0,5" Click="btnBeep_Click">Beep</Button>
+        <Button Name="btnExclamation" Click="btnExclamation_Click">Exclamation</Button>
+        <Button Name="btnHand" Margin="0,5" Click="btnHand_Click">Hand</Button>
+        <Button Name="btnQuestion" Click="btnQuestion_Click">Question</Button>
+    </StackPanel>
+</Window>

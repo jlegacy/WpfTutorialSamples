@@ -1,0 +1,13 @@
+﻿<Window x:Class="WpfTutorialSamples.Panels.DockPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="DockPanel" Height="300" Width="300">
+	<DockPanel LastChildFill="False">
+		<Button DockPanel.Dock="Top" Height="50">Top</Button>
+		<Button DockPanel.Dock="Bottom" Height="50">Bottom</Button>
+		<Button DockPanel.Dock="Left" Width="50">Left</Button>
+		<Button DockPanel.Dock="Left" Width="50">Left</Button>
+		<Button DockPanel.Dock="Right" Width="50">Right</Button>
+		<Button DockPanel.Dock="Right" Width="50">Right</Button>
+	</DockPanel>
+</Window>

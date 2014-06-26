@@ -1,0 +1,705 @@
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\bin\Debug\WpfTutorialSamples.exe
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\bin\Debug\WpfTutorialSamples.pdb
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\MainWindow.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\WrapPanel.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\WrapPanel.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\App.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WpfTutorialSamples_MarkupCompile.cache
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WpfTutorialSamples.g.resources
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WpfTutorialSamples.Properties.Resources.resources
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WpfTutorialSamples.csproj.GenerateResource.Cache
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WpfTutorialSamples.exe
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WpfTutorialSamples.pdb
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\Grid.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\Grid.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\TabularGrid.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\TabularGrid.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridUnits.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridUnits.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridContactForm.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridContactForm.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridContactFormTake2.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridContactFormTake2.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridColRowSpan.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridColRowSpan.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridColRowSpanAdvanced.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridColRowSpanAdvanced.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\StackPanel.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\StackPanel.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\Canvas.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\Canvas.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\CanvasPainting.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\CanvasPainting.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\DockPanel.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\DockPanel.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockInlineSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockInlineSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockHyperlinkSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockHyperlinkSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockSpanSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockSpanSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockCodeBehindSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockCodeBehindSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\LabelControlSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\LabelControlSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\LabelControlAdvancedSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\LabelControlAdvancedSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\XAML\EventsSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\XAML\EventsSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\AppSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\AppSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBoxSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBoxSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBoxSelectionSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBoxSelectionSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ListViewGridViewSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ListViewGridViewSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ListViewGridViewCellTemplateSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ListViewGridViewCellTemplateSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\HelloBoundWorldSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\HelloBoundWorldSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\DataContextSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\DataContextSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\ConverterSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WpfTutorialSamples_MarkupCompile.lref
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\ConverterSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\MultiValueConverterSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\MultiValueConverterSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\StringFormatSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\StringFormatSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\StringFormatCultureSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\StringFormatCultureSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\RadioButtonSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\RadioButtonSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\RadioButtonCustomContentSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\RadioButtonCustomContentSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\CheckBoxSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\CheckBoxSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\CheckBoxThreeStateSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\CheckBoxThreeStateSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ItemsControl\ItemsControlSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ItemsControl\ItemsControlSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListBox control\ListBoxSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListBox control\ListBoxSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListBox control\ListBoxDataBindingSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListBox control\ListBoxDataBindingSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListBox control\ListBoxSelectionSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListBox control\ListBoxSelectionSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\TreeViewSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\TreeViewSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\TreeViewDataBindingSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\TreeViewDataBindingSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\ChangeNotificationSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\ChangeNotificationSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\DataBindingDebuggingSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\DataBindingDebuggingSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\SimpleDataGridSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\SimpleDataGridSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\DataGridColumnsSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\DataGridColumnsSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\DataGridColumnFeaturesSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\DataGridColumnFeaturesSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\DataGridDetailsSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\DataGridDetailsSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\TreeViewMultipleTemplatesSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\TreeViewMultipleTemplatesSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\TreeViewSelectionExpansionSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\TreeViewSelectionExpansionSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\BorderSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\BorderSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WpfTutorialSamples.csprojResolveAssemblyReference.cache
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\ComboBoxSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\CanvasZIndex.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\ComboBoxSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\CanvasZIndex.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ListViewGroupSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ListViewGroupSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\DataGridGroupSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\DataGridGroupSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridSplitterSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridSplitterSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridSplitterHorizontalSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridSplitterHorizontalSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\MenuSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\MenuSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\MenuIconCheckableSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\MenuIconCheckableSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Commands\UsingCommandsSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Commands\UsingCommandsSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Commands\CommandCanExecuteSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Commands\CommandCanExecuteSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Commands\CommandsWithCommandTargetSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Commands\CommandsWithCommandTargetSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Commands\CustomCommandSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Commands\CustomCommandSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\SimpleStyleSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\SimpleStyleSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\ControlSpecificStyleSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\ControlSpecificStyleSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\WindowWideStyleSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\WindowWideStyleSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\ExplicitStyleSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\ExplicitStyleSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\MenuWithCommandsSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\MenuWithCommandsSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ToolbarSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ToolbarSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ToolbarIconSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ToolbarIconSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ToolbarPositionSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ToolbarPositionSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ToolbarCustomControlsSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ToolbarCustomControlsSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\StatusBarSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\StatusBarSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\StatusBarAdvancedSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\StatusBarAdvancedSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\TabControlSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\TabControlSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\TabControlWithCustomHeadersSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\TabControlWithCustomHeadersSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ControllingTheTabControlSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ControllingTheTabControlSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\TabStripPlacementSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\TabStripPlacementSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\StyledTabItemsSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\StyledTabItemsSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\StyledTabItemsWithBorderSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\StyledTabItemsWithBorderSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ContextMenuSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ContextMenuSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ContextMenuWithCommandsSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ContextMenuWithCommandsSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ContextMenuManuallyInvokedSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ContextMenuManuallyInvokedSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\ExceptionHandlingSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\ExceptionHandlingSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleTriggersSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleTriggersSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleEventTriggerSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleEventTriggerSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleDataTriggerSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleDataTriggerSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleMultiTriggerSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleMultiTriggerSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleMultiDataTriggerSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleMultiDataTriggerSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleTriggerEnterExitActions.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleTriggerEnterExitActions.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\WebBrowserControlSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\WebBrowserControlSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\WindowsFormsHostSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\WindowsFormsHostSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc\DispatcherTimerSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc\DispatcherTimerSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc\BackgroundWorkerSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc\BackgroundWorkerSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc\BackgroundWorkerCancellationSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc\BackgroundWorkerCancellationSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\SortingSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\SortingSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\BasicSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ItemTemplateSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\BasicSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ItemTemplateSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Control concepts\ToolTipsSimpleSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Control concepts\ToolTipsSimpleSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Control concepts\ToolTipsAdvancedSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Control concepts\ToolTipsAdvancedSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Control concepts\TextFormattingModeSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Control concepts\TextFormattingModeSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Control concepts\TextRenderingModeSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Control concepts\TextRenderingModeSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\CodeBehindBindingsSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\CodeBehindBindingsSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\User Controls\LimitedInputUserControl.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\User Controls\LimitedInputUserControl.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\User Controls\LimitedInputSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\User Controls\LimitedInputSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\PasswordBoxSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\PasswordBoxSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\ResourceSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\ResourceSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\ExtendedResourceSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\ExtendedResourceSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\FilteringSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\CollapseExpandGroupSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\FilteringSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\CollapseExpandGroupSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\ResourcesFromCodeBehindSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\ResourcesFromCodeBehindSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\App.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ColumnSortingSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ColumnSortingSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\CustomItemsSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\CustomItemsSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\LazyLoadingSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\LazyLoadingSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentScrollViewerSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentScrollViewerSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentScrollViewerZoomSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentScrollViewerZoomSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentTextAlignmentSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentTextAlignmentSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentPageViewerSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentPageViewerSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentReaderSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentReaderSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentPrintSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentPrintSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentSearchSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentSearchSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ItemsControl\DataBindingSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ItemsControl\PanelSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\CodeBehindFlowDocumentSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ItemsControl\DataBindingSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ItemsControl\PanelSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\CodeBehindFlowDocumentSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\ExtendedFlowDocumentSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\ExtendedFlowDocumentSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\DataBindingSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\DataBindingSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\BlockUIContainerSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\BlockUIContainerSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\RichTextEditorSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\RichTextEditorSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\RichTextBoxSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\RichTextBoxSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\RichTextBoxTextSelectionSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\RichTextBoxTextSelectionSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\RichTextBoxParagraphSpacingSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\RichTextBoxParagraphSpacingSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechSynthesisSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechSynthesisSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechSynthesisPromptBuilderSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechSynthesisPromptBuilderSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechRecognitionTextSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechRecognitionTextSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechRecognitionTextCommandsSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechRecognitionTextCommandsSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechRecognitionCommandsSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechRecognitionCommandsSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\MessageBoxSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\MessageBoxSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\OpenFileDialogSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\OpenFileDialogSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\OpenFileDialogMultipleFilesSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\OpenFileDialogMultipleFilesSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerVideoSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerVideoSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SystemSoundsSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SystemSoundsSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerAudioSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerAudioSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerAudioControlSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerAudioControlSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerVideoControlSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\CustomContentSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\DataBindingSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerVideoControlSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\CustomContentSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\DataBindingSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\EditableSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\EditableSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\SelectionSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\SelectionSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerVideoSizeSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerVideoSizeSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\AudioVideoPlayerCompleteSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\AudioVideoPlayerCompleteSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\SliderSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\SliderSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\SliderSnapToTickSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\SliderSnapToTickSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\SliderBoundValueSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\SliderBoundValueSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\SliderValueChangedSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\SliderValueChangedSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarTaskOnUiThread.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarTaskOnUiThread.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarTaskOnWorkerThread.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarTaskOnWorkerThread.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarIndeterminateSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarTextSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarIndeterminateSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarTextSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\InputDialogAppSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\InputDialogSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\InputDialogAppSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\InputDialogSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\SaveFileDialogSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\SaveFileDialogSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarControlSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarControlSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarViewboxSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarViewboxSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarSelectionModeSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarSelectionModeSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarSelectedDatesSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarSelectedDateSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarSelectedDatesSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarSelectedDateSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarBlockedoutDatesSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarBlockedoutDatesSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarDisplayModeSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarDisplayModeSample.g.cs
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarDisplayDateSample.baml
+C:\Users\Kasper Tanggaard\Documents\Visual Studio 2010\Projects\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarDisplayDateSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WpfTutorialSamples.exe
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WpfTutorialSamples.pdb
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\bin\Debug\WpfTutorialSamples.exe
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\bin\Debug\WpfTutorialSamples.pdb
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\AudioVideoPlayerCompleteSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerAudioControlSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerAudioSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerVideoControlSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerVideoSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerVideoSizeSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechRecognitionCommandsSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechRecognitionTextCommandsSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechRecognitionTextSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechSynthesisPromptBuilderSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechSynthesisSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SystemSoundsSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\CheckBoxSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\CheckBoxThreeStateSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\LabelControlAdvancedSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\LabelControlSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\PasswordBoxSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\RadioButtonCustomContentSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\RadioButtonSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockCodeBehindSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockHyperlinkSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockInlineSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockSpanSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBoxSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBoxSelectionSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\CustomContentSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\DataBindingSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\EditableSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\ComboBoxSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\SelectionSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Commands\CommandCanExecuteSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Commands\CommandsWithCommandTargetSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Commands\UsingCommandsSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ContextMenuManuallyInvokedSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ContextMenuSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ContextMenuWithCommandsSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\MenuIconCheckableSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\MenuSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\MenuWithCommandsSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\StatusBarAdvancedSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\StatusBarSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ToolbarCustomControlsSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ToolbarIconSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ToolbarPositionSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ToolbarSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Control concepts\TextFormattingModeSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Control concepts\TextRenderingModeSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Control concepts\ToolTipsAdvancedSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Control concepts\ToolTipsSimpleSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\ChangeNotificationSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\CodeBehindBindingsSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\DataContextSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\HelloBoundWorldSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\StringFormatCultureSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\StringFormatSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\DataGridColumnFeaturesSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\DataGridColumnsSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\DataGridDetailsSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\DataGridGroupSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\SimpleDataGridSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\InputDialogAppSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\InputDialogSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\MessageBoxSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\OpenFileDialogMultipleFilesSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\OpenFileDialogSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\SaveFileDialogSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ItemsControl\DataBindingSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ItemsControl\PanelSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ItemsControl\ItemsControlSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListBox control\ListBoxDataBindingSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListBox control\ListBoxSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListBox control\ListBoxSelectionSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\BasicSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\FilteringSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\CollapseExpandGroupSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ColumnSortingSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\DataBindingSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ListViewGridViewCellTemplateSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ListViewGridViewSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ListViewGroupSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ItemTemplateSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\SortingSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\MainWindow.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\BorderSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarBlockedoutDatesSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarControlSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarDisplayDateSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarDisplayModeSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarSelectedDatesSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarSelectionModeSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarSelectedDateSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarViewboxSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ControllingTheTabControlSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarIndeterminateSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarTaskOnUiThread.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarTaskOnWorkerThread.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarTextSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\SliderBoundValueSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\SliderSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\SliderSnapToTickSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\SliderValueChangedSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\StyledTabItemsSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\StyledTabItemsWithBorderSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\TabControlSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\TabControlWithCustomHeadersSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\TabStripPlacementSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\WebBrowserControlSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\WindowsFormsHostSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc\BackgroundWorkerCancellationSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc\BackgroundWorkerSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc\DispatcherTimerSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\Canvas.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\CanvasPainting.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\CanvasZIndex.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\DockPanel.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\Grid.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridColRowSpan.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridColRowSpanAdvanced.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridContactForm.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridContactFormTake2.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridSplitterHorizontalSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridSplitterSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridUnits.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\StackPanel.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\TabularGrid.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\WrapPanel.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\CodeBehindFlowDocumentSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\ExtendedFlowDocumentSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentPageViewerSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentPrintSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentReaderSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentScrollViewerSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentScrollViewerZoomSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentSearchSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentTextAlignmentSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\RichTextBoxParagraphSpacingSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\RichTextBoxSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\RichTextBoxTextSelectionSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\RichTextEditorSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\ControlSpecificStyleSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\ExplicitStyleSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\SimpleStyleSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleDataTriggerSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleEventTriggerSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleMultiDataTriggerSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleMultiTriggerSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleTriggerEnterExitActions.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleTriggersSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\WindowWideStyleSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\CustomItemsSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\LazyLoadingSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\TreeViewSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\TreeViewSelectionExpansionSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\User Controls\LimitedInputUserControl.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\AppSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\ExceptionHandlingSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\ExtendedResourceSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\ResourceSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\ResourcesFromCodeBehindSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\XAML\EventsSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\App.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\AudioVideoPlayerCompleteSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerAudioControlSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerAudioSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerVideoControlSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerVideoSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\MediaPlayerVideoSizeSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechRecognitionCommandsSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechRecognitionTextCommandsSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechRecognitionTextSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechSynthesisPromptBuilderSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SpeechSynthesisSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Audio and Video\SystemSoundsSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\CheckBoxSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\CheckBoxThreeStateSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\LabelControlAdvancedSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\LabelControlSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\PasswordBoxSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\RadioButtonCustomContentSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\RadioButtonSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockCodeBehindSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockHyperlinkSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockInlineSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBlockSpanSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBoxSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Basic controls\TextBoxSelectionSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\CustomContentSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\DataBindingSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\EditableSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\ComboBoxSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ComboBox control\SelectionSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Commands\CommandCanExecuteSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Commands\CommandsWithCommandTargetSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Commands\CustomCommandSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Commands\UsingCommandsSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ContextMenuManuallyInvokedSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ContextMenuSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ContextMenuWithCommandsSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\MenuIconCheckableSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\MenuSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\MenuWithCommandsSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\StatusBarAdvancedSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\StatusBarSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ToolbarCustomControlsSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ToolbarIconSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ToolbarPositionSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Common interface controls\ToolbarSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Control concepts\TextFormattingModeSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Control concepts\TextRenderingModeSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Control concepts\ToolTipsAdvancedSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Control concepts\ToolTipsSimpleSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\ChangeNotificationSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\CodeBehindBindingsSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\ConverterSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\DataBindingDebuggingSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\DataContextSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\HelloBoundWorldSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\MultiValueConverterSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\StringFormatCultureSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\StringFormatSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\DataGridColumnFeaturesSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\DataGridColumnsSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\DataGridDetailsSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\DataGridGroupSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataGrid control\SimpleDataGridSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\InputDialogAppSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\InputDialogSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\MessageBoxSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\OpenFileDialogMultipleFilesSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\OpenFileDialogSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Dialogs\SaveFileDialogSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ItemsControl\DataBindingSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ItemsControl\PanelSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ItemsControl\ItemsControlSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListBox control\ListBoxDataBindingSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListBox control\ListBoxSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListBox control\ListBoxSelectionSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\BasicSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\FilteringSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\CollapseExpandGroupSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ColumnSortingSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\DataBindingSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ListViewGridViewCellTemplateSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ListViewGridViewSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ListViewGroupSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\ItemTemplateSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\ListView control\SortingSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\MainWindow.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\BorderSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarBlockedoutDatesSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarControlSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarDisplayDateSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarDisplayModeSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarSelectedDatesSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarSelectionModeSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarSelectedDateSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\CalendarViewboxSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ControllingTheTabControlSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarIndeterminateSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarTaskOnUiThread.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarTaskOnWorkerThread.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\ProgressBarTextSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\SliderBoundValueSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\SliderSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\SliderSnapToTickSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\SliderValueChangedSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\StyledTabItemsSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\StyledTabItemsWithBorderSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\TabControlSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\TabControlWithCustomHeadersSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\TabStripPlacementSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\WebBrowserControlSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc controls\WindowsFormsHostSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc\BackgroundWorkerCancellationSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc\BackgroundWorkerSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Misc\DispatcherTimerSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\Canvas.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\CanvasPainting.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\CanvasZIndex.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\DockPanel.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\Grid.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridColRowSpan.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridColRowSpanAdvanced.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridContactForm.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridContactFormTake2.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridSplitterHorizontalSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridSplitterSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\GridUnits.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\StackPanel.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\TabularGrid.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Panels\WrapPanel.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\BlockUIContainerSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\CodeBehindFlowDocumentSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\ExtendedFlowDocumentSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentPageViewerSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentPrintSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentReaderSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentScrollViewerSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentScrollViewerZoomSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentSearchSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\FlowDocumentTextAlignmentSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\RichTextBoxParagraphSpacingSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\RichTextBoxSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\RichTextBoxTextSelectionSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\RichTextEditorSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\ControlSpecificStyleSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\ExplicitStyleSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\SimpleStyleSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleDataTriggerSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleEventTriggerSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleMultiDataTriggerSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleMultiTriggerSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleTriggerEnterExitActions.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\StyleTriggersSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Styles\WindowWideStyleSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\CustomItemsSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\LazyLoadingSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\TreeViewDataBindingSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\TreeViewMultipleTemplatesSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\TreeViewSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\TreeViewSelectionExpansionSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\User Controls\LimitedInputSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\User Controls\LimitedInputUserControl.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\AppSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\ExceptionHandlingSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\ExtendedResourceSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\ResourceSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WPF Application\ResourcesFromCodeBehindSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\XAML\EventsSample.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\App.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WpfTutorialSamples_MarkupCompile.cache
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WpfTutorialSamples_MarkupCompile.lref
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Commands\CustomCommandSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\ConverterSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\DataBindingDebuggingSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\DataBinding\MultiValueConverterSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\Rich text controls\BlockUIContainerSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\TreeViewDataBindingSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\TreeView control\TreeViewMultipleTemplatesSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\User Controls\LimitedInputSample.baml
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WpfTutorialSamples.g.resources
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WpfTutorialSamples.Properties.Resources.resources
+C:\Users\cgjlegac\Downloads\wpfsamples\WpfTutorialSamples\WpfTutorialSamples\obj\x86\Debug\WpfTutorialSamples.csproj.GenerateResource.Cache

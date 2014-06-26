@@ -1,0 +1,12 @@
+﻿<Window x:Class="WpfTutorialSamples.Audio_and_Video.SpeechRecognitionCommandsSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SpeechRecognitionCommandsSample" Height="200" Width="325"
+        Closing="Window_Closing">    
+    <DockPanel>
+        <WrapPanel DockPanel.Dock="Bottom" HorizontalAlignment="Center" Margin="0,10">
+            <ToggleButton Name="btnToggleListening" Click="btnToggleListening_Click" Width="120">Listening enabled</ToggleButton>
+        </WrapPanel>
+        <Label Name="lblDemo" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="48">Hello, world!</Label>        
+    </DockPanel>
+</Window>

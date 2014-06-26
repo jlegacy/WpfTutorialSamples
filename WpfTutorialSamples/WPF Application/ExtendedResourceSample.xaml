@@ -1,0 +1,25 @@
+﻿<Window x:Class="WpfTutorialSamples.WPF_Application.ExtendedResourceSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        Title="ExtendedResourceSample" Height="160" Width="300"
+        Background="{DynamicResource WindowBackgroundBrush}">
+    <Window.Resources>
+        <sys:String x:Key="ComboBoxTitle">Items:</sys:String>
+        
+        <x:Array x:Key="ComboBoxItems" Type="sys:String">
+            <sys:String>Item #1</sys:String>
+            <sys:String>Item #2</sys:String>
+            <sys:String>Item #3</sys:String>
+        </x:Array>
+
+        <LinearGradientBrush x:Key="WindowBackgroundBrush">
+            <GradientStop Offset="0" Color="Silver"/>
+            <GradientStop Offset="1" Color="Gray"/>
+        </LinearGradientBrush>
+    </Window.Resources>
+    <StackPanel Margin="10">
+        <Label Content="{StaticResource ComboBoxTitle}" />
+        <ComboBox ItemsSource="{StaticResource ComboBoxItems}" />
+    </StackPanel>
+</Window>

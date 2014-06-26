@@ -1,0 +1,10 @@
+﻿<Window x:Class="WpfTutorialSamples.Basic_controls.TextBlockHyperlinkSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TextBlockHyperlinkSample" Height="100" Width="300">
+	<Grid>
+		<TextBlock Margin="10" TextWrapping="Wrap">
+			This text has a <Hyperlink RequestNavigate="Hyperlink_RequestNavigate" NavigateUri="https://www.google.com">link</Hyperlink> in it.
+		</TextBlock>
+	</Grid>
+</Window>

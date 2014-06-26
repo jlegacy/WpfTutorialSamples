@@ -1,0 +1,15 @@
+﻿<Window x:Class="WpfTutorialSamples.Misc.BackgroundWorkerSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="BackgroundWorkerSample" Height="300" Width="375">
+    <DockPanel Margin="10">
+        <DockPanel DockPanel.Dock="Top">
+            <Button Name="btnDoSynchronousCalculation" Click="btnDoSynchronousCalculation_Click" DockPanel.Dock="Left" HorizontalAlignment="Left">Synchronous (same thread)</Button>
+            <Button Name="btnDoAsynchronousCalculation" Click="btnDoAsynchronousCalculation_Click" DockPanel.Dock="Right" HorizontalAlignment="Right">Asynchronous (worker thread)</Button>
+        </DockPanel>
+        <ProgressBar DockPanel.Dock="Bottom" Height="18" Name="pbCalculationProgress" />
+        
+        <ListBox Name="lbResults" Margin="0,10" />
+        
+    </DockPanel>
+</Window>

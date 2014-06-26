@@ -1,0 +1,8 @@
+﻿<Window x:Class="WpfTutorialSamples.Rich_text_controls.CodeBehindFlowDocumentSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CodeBehindFlowDocumentSample" Height="200" Width="300">
+    <Grid>
+        <FlowDocumentScrollViewer Name="fdViewer" />
+    </Grid>
+</Window>

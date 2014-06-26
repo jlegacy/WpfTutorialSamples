@@ -1,0 +1,27 @@
+﻿<Window x:Class="WpfTutorialSamples.ListBox_control.ListBoxSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ListBoxSample" Height="120" Width="200">
+	<Grid Margin="10">
+		<ListBox>
+			<ListBoxItem>
+				<StackPanel Orientation="Horizontal">
+					<Image Source="/WpfTutorialSamples;component/Images/bullet_blue.png" />
+					<TextBlock>ListBox Item <Run Foreground="Blue">#1</Run></TextBlock>
+				</StackPanel>
+			</ListBoxItem>
+			<ListBoxItem>
+				<StackPanel Orientation="Horizontal">
+					<Image Source="/WpfTutorialSamples;component/Images/bullet_green.png" />
+					<TextBlock>ListBox Item <Run Foreground="Green">#2</Run></TextBlock>
+				</StackPanel>
+			</ListBoxItem>
+			<ListBoxItem>
+				<StackPanel Orientation="Horizontal">
+					<Image Source="/WpfTutorialSamples;component/Images/bullet_red.png" />
+					<TextBlock>ListBox Item <Run Foreground="Red">#3</Run></TextBlock>
+				</StackPanel>
+			</ListBoxItem>
+		</ListBox>
+	</Grid>
+</Window>

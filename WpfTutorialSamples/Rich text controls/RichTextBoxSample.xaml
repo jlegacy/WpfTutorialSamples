@@ -1,0 +1,13 @@
+﻿<Window x:Class="WpfTutorialSamples.Rich_text_controls.RichTextBoxSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="RichTextBoxSample" Height="200" Width="300">
+    <Grid>
+        <RichTextBox Margin="10">
+            <FlowDocument>
+                <Paragraph FontSize="36">Hello, world!</Paragraph>
+                <Paragraph FontStyle="Italic" TextAlignment="Left" FontSize="14" Foreground="Gray">Thanks to the RichTextBox control, this FlowDocument is completely editable!</Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+    </Grid>
+</Window>

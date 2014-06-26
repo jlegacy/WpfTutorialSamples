@@ -1,0 +1,12 @@
+﻿<Window x:Class="WpfTutorialSamples.DataBinding.DataBindingDebuggingSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+		xmlns:self="clr-namespace:WpfTutorialSamples.DataBinding"
+        Title="DataBindingDebuggingSample" Name="wnd" Height="100" Width="200">
+	<Window.Resources>
+		<self:DebugDummyConverter x:Key="DebugDummyConverter" />
+	</Window.Resources>
+    <Grid Margin="10">
+		<TextBlock Text="{Binding Title, ElementName=wnd, Converter={StaticResource DebugDummyConverter}}" />
+	</Grid>
+</Window>

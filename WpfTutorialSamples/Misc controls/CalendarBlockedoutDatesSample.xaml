@@ -1,0 +1,13 @@
+﻿<Window x:Class="WpfTutorialSamples.Misc_controls.CalendarBlockedoutDatesSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CalendarBlockedoutDatesSample" Height="300" Width="300">
+    <Viewbox>
+        <Calendar Name="cldSample" SelectionMode="MultipleRange">
+            <Calendar.BlackoutDates>
+                <CalendarDateRange Start="10.13.2013" End="10.19.2013" />
+                <CalendarDateRange Start="10.27.2013" End="10.31.2013" />
+            </Calendar.BlackoutDates>
+        </Calendar>
+    </Viewbox>
+</Window>

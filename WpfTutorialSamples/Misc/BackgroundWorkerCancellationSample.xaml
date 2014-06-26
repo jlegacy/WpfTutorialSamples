@@ -1,0 +1,12 @@
+﻿<Window x:Class="WpfTutorialSamples.Misc.BackgroundWorkerCancellationSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="BackgroundWorkerCancellationSample" Height="120" Width="200">
+    <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+        <TextBlock Name="lblStatus" HorizontalAlignment="Center" Margin="0,10" FontWeight="Bold">Not running...</TextBlock>
+        <WrapPanel>
+            <Button Name="btnStart" Width="60" Margin="10,0" Click="btnStart_Click">Start</Button>
+            <Button Name="btnCancel" Width="60" Click="btnCancel_Click">Cancel</Button>
+        </WrapPanel>
+    </StackPanel>
+</Window>

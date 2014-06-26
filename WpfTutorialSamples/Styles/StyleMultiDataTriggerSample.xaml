@@ -1,0 +1,27 @@
+﻿<Window x:Class="WpfTutorialSamples.Styles.StyleMultiDataTriggerSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="StyleMultiDataTriggerSample" Height="150" Width="200">
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+        <CheckBox Name="cbSampleYes" Content="Yes" />
+        <CheckBox Name="cbSampleSure" Content="I'm sure" />
+        <TextBlock HorizontalAlignment="Center" Margin="0,20,0,0" FontSize="28">
+            <TextBlock.Style>
+                <Style TargetType="TextBlock">
+                    <Setter Property="Text" Value="Unverified" />
+                    <Setter Property="Foreground" Value="Red" />
+                    <Style.Triggers>
+                        <MultiDataTrigger>
+                            <MultiDataTrigger.Conditions>
+                                <Condition Binding="{Binding ElementName=cbSampleYes, Path=IsChecked}" Value="True" />
+                                <Condition Binding="{Binding ElementName=cbSampleSure, Path=IsChecked}" Value="True" />
+                            </MultiDataTrigger.Conditions>                              
+                            <Setter Property="Text" Value="Verified" />
+                            <Setter Property="Foreground" Value="Green" />
+                        </MultiDataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBlock.Style>
+        </TextBlock>
+    </StackPanel>
+</Window>
